@@ -1,7 +1,7 @@
 """
 Created on Wed Jan 11 10:11:03 2023
 
-@author: Thomas Wolfers and Milin Kim
+@author: Thomas Wolfers 
 """
 
 from __future__ import with_statement
