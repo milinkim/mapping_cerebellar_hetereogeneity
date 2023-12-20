@@ -1,7 +1,7 @@
 """
 Created on Wed Jan 11 10:11:03 2023
 
-@author: pThomas Wolfers
+@author: Thomas Wolfers
 """
 
 import os
